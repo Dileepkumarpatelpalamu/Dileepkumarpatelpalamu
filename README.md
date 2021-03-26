@@ -1,7 +1,18 @@
 # Dileep Kumar Patel     
 ## Web Developer
+#### A web developer specializes in secilifically development of World Wide Web application using a Client-Server Model. The applications typically use HTML, CSS and JavaScript in the client, Php, Asp.net, Python, Java in the server, and http for communications between client and server. A web content management system is often used to develop and maintain web applications.
+## Required Skill :- 
+1. Html 
+2. Css, Css3 and css framework Bootstrap
+3. JavaScript, Nodejs, Angular Js, React Js and J-Query
+4. Php or Asp.net or any Server site Scripting language Python
+5. Server side Scripting language Framework like Laravel, Codeigniter and Django
+6. Database like MySql, Micro Soft Sql Server, Oracle etc
+## Social Media
 [Facebook](https://www.facebook.com/Dileepkumarpatel.94214)
 [GitHub](https://github.com/DileepKumarPatelPalamu)
+[twitter](https://twitter.com/pateldileep51)
+[linkedin](https://www.linkedin.com/in/dileep-kumar-patel-333b90125/)
 ## OnlineShoping Projects :-
 [Online Shoping :](https://dileepkumarpatelpalamu.github.io/onlineshoping/)
 ### About Us
