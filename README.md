@@ -3,7 +3,7 @@
 [Facebook](https://www.facebook.com/Dileepkumarpatel.94214)
 [GitHub](https://github.com/DileepKumarPatelPalamu)
 ## OnlineShoping Projects :-
-[Online Shoping Link :](https://dileepkumarpatelpalamu.github.io/onlineshoping/)
+[Online Shoping :](https://dileepkumarpatelpalamu.github.io/onlineshoping/)
 ### About Us
 -  Hi, I’m Dileep Kumar Patel
 - I’m interested in Web Development process like frontend & Backend Designing, Database Designing and other frameworks Bootstrap, J-Query, Html, Css and Mysql server.
