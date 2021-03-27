@@ -1,4 +1,4 @@
-# Dileep Kumar Patel     
+# Dileep Kumar Patel
 ## Web Developer
 #### A web developer specializes in secilifically development of World Wide Web application using a Client-Server Model. The applications typically use HTML, CSS and JavaScript in the client, Php, Asp.net, Python, Java in the server, and http for communications between client and server. A web content management system is often used to develop and maintain web applications.
 ## Required Skill :- 
