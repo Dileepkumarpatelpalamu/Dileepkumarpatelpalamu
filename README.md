@@ -9,10 +9,11 @@ A web developer specializes in secilifically development of World Wide Web appli
 5. Server side Scripting language Framework like Laravel, Codeigniter and Django
 6. Database like MySql, Micro Soft Sql Server, Oracle etc
 ## Social Media
-[Facebook](https://www.facebook.com/Dileepkumarpatel.94214)
-[GitHub](https://github.com/DileepKumarPatelPalamu)
-[twitter](https://twitter.com/pateldileep51)
-[linkedin](https://www.linkedin.com/in/dileep-kumar-patel-333b90125/)
+### Contact Us
+- Facebook :  [Facebook](https://www.facebook.com/Dileepkumarpatel.94214)
+- GitHub :  [GitHub](https://github.com/DileepKumarPatelPalamu)
+- Twitter : [twitter](https://twitter.com/pateldileep51)
+- Linkedin :  [linkedin](https://www.linkedin.com/in/dileep-kumar-patel-333b90125/)
 ## OnlineShoping Projects :-
 Website [Online Shoping :](https://dileepkumarpatelpalamu.github.io/onlineshoping/)
 ### About Us
