@@ -16,8 +16,8 @@ A web developer specializes in secilifically development of World Wide Web appli
 - Linkedin :  [linkedin](https://www.linkedin.com/in/dileep-kumar-patel-333b90125/)
 ## OnlineShoping Projects :-
 Website [Online Shoping :](https://dileepkumarpatelpalamu.github.io/onlineshoping/)
-## OnlineTest Projects :-
-Website [Online Test :](https://pateldileep51.pythonanywhere.com/)
+## Online Exam Projects :-
+Website [Online Exam Project :](https://pateldileep51.pythonanywhere.com/)
 ### About Us
 -  Hi, I’m **Dileep Kumar Patel**
 - I’m interested in Web Development process like frontend & Backend Designing, Database Designing and other frameworks Bootstrap, J-Query, Html, Css and Mysql server.
