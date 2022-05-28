@@ -11,8 +11,7 @@ A web developer specializes in secilifically development of World Wide Web appli
 ## Social Media
 ### Contact Us
 - Facebook :  [Facebook](https://www.facebook.com/Dileepkumarpatel.94214)
-- GitHub :  [GitHub](https://github.com/DileepKumarPatelPalamu)![email](https://user-images.githubusercontent.com/78139205/170836006-e67179c5-4970-4913-9692-d2dec8ca1de2.png)
-
+- GitHub :  [GitHub](https://github.com/DileepKumarPatelPalamu)
 - Twitter : [twitter](https://twitter.com/pateldileep51)
 - Linkedin :  [linkedin](https://www.linkedin.com/in/dileep-kumar-patel-333b90125/)
 ## OnlineShoping Projects :-
