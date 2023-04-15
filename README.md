@@ -1,6 +1,6 @@
 # Dileep Kumar Patel
-## Web Developer
-A web developer specializes in secilifically development of World Wide Web application using a Client-Server Model. The applications typically use HTML, CSS and JavaScript in the client, Php, Asp.net, Python, Java in the server, and http for communications between client and server. A web content management system is often used to develop and maintain web applications. Now days we explore deep learn about web framework of Python like **Flask** & **Django** with better experiences. 
+## Django Developer
+**Django developer** is a software developer who specializes in building web applications using the Django framework, which is a high-level Python web framework. They are responsible for designing, developing, and implementing web applications that meet client requirements, using best practices for software development, code management, and testing. The applications typically use HTML, CSS and JavaScript in the client, Php, Asp.net, Python, Java in the server, and http for communications between client and server. A web content management system is often used to develop and maintain web applications. Now days we explore deep learn about web framework of Python like **Flask** & **Django** with better experiences. 
 ## Required Skill :- 
 1. Html 
 2. Css, Css3 and css framework Bootstrap
