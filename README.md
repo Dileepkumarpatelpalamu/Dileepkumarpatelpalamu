@@ -14,7 +14,7 @@
 - GitHub :  [GitHub](https://github.com/DileepKumarPatelPalamu)
 - Twitter : [twitter](https://twitter.com/pateldileep51)
 - Linkedin :  [linkedin](https://www.linkedin.com/in/dileep-kumar-patel-333b90125/)
-- Linkedin :  [linkedin](https://www.linkedin.com/in/dileep-kumar-patel-333b90125/)
+- Resume :  [Live Resume Builder Project](https://python03django.pythonanywhere.com/)
 ## OnlineShoping Projects :-
 Website [Online Shoping :](https://dileepkumarpatelpalamu.github.io/onlineshoping/)
 ## Online Exam Projects :-
