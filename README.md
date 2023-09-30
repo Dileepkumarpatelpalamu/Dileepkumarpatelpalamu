@@ -16,7 +16,7 @@ These developers often employ user-friendly content management systems, guarante
 - Twitter : [twitter](https://twitter.com/pateldileep51)
 - Linkedin :  [linkedin](https://www.linkedin.com/in/dileep-kumar-patel-333b90125/)
 - Resume :  [Live Resume Builder Project](https://python03django.pythonanywhere.com/)
-- MyPicDocs :  [MyPicDocs](https:www//mypicdocs.com)
+- MyPicDocs :  [MyPicDocs](https://www.mypicdocs.com)
 ## OnlineShoping Projects :-
 Website [Online Shoping :](https://dileepkumarpatelpalamu.github.io/onlineshoping/)
 ## Online Exam Projects :-
