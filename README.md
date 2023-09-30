@@ -1,6 +1,6 @@
 # Dileep Kumar Patel
 ## Django/Php Developer
-**Django developers**, experts in creating advanced web applications using the Django framework, a powerful Python tool. Their role involves crafting custom web solutions for clients, following best practices in software development and rigorous testing. They utilize a range of technologies, including HTML, CSS, JavaScript, PHP, ASP.NET, Python, and Java, ensuring smooth communication between clients and servers through the HTTP protocol.
+**Django developers**, experts in creating advanced web applications using the Django framework, a powerful Python tool. ![](https://media.licdn.com/dms/image/D4D03AQGix7U85Bxcsw/profile-displayphoto-shrink_200_200/0/1691930012635?e=1701302400&v=beta&t=J0yUtpSXld7_jiR4rpTme1WAjT8XFXe51pGWPIWzk2w) Their role involves crafting custom web solutions for clients, following best practices in software development and rigorous testing. They utilize a range of technologies, including HTML, CSS, JavaScript, PHP, ASP.NET, Python, and Java, ensuring smooth communication between clients and servers through the HTTP protocol.
 These developers often employ user-friendly content management systems, guaranteeing seamless development and maintenance of web applications. They stay updated with the latest trends, exploring advanced Python frameworks like Flask to enhance their skills and deliver top-notch web experiences Now days we explore deep learn about web framework of Python like **Flask** & **Django** with better experiences. 
 ## Required Skill :- 
 1. Html 
