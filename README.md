@@ -16,13 +16,13 @@ These developers often employ user-friendly content management systems, guarante
 - Twitter : [twitter](https://twitter.com/pateldileep51)
 - Linkedin :  [linkedin](https://www.linkedin.com/in/dileep-kumar-patel-333b90125/)
 - Resume :  [Live Resume Builder Project](https://python03django.pythonanywhere.com/)
-- MyPicDocs :  [Live Resume Builder Project](https://mypicdocs.pythonanywhere.com/)
+- MyPicDocs :  [MyPicDocs](https://mypicdocs.pythonanywhere.com/)
 ## OnlineShoping Projects :-
 Website [Online Shoping :](https://dileepkumarpatelpalamu.github.io/onlineshoping/)
 ## Online Exam Projects :-
 Website [Online Exam Project :](https://pateldileep51.pythonanywhere.com/)
 ##  Presonal Web Link :-
-Website [Online Exam Project :](https://www.mypicdocs.com/)
+Website [MyPicDocs:](https://www.mypicdocs.com/)
 ### About Us
 -  Hi, I’m **Dileep Kumar Patel**
 - I’m interested in Web Development process like frontend & Backend Designing, Database Designing and other frameworks Bootstrap, J-Query, Html, Css and Mysql server.
