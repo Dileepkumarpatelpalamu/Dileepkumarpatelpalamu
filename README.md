@@ -1,6 +1,7 @@
 # Dileep Kumar Patel
-## Django Developer
-**Django developer** is a software developer who specializes in building web applications using the Django framework, which is a high-level Python web framework. They are responsible for designing, developing, and implementing web applications that meet client requirements, using best practices for software development, code management, and testing. The applications typically use HTML, CSS and JavaScript in the client, Php, Asp.net, Python, Java in the server, and http for communications between client and server. A web content management system is often used to develop and maintain web applications. Now days we explore deep learn about web framework of Python like **Flask** & **Django** with better experiences. 
+## Django/Php Developer
+**Django developers, experts in creating advanced web applications using the Django framework, a powerful Python tool. Their role involves crafting custom web solutions for clients, following best practices in software development and rigorous testing. They utilize a range of technologies, including HTML, CSS, JavaScript, PHP, ASP.NET, Python, and Java, ensuring smooth communication between clients and servers through the HTTP protocol.
+These developers often employ user-friendly content management systems, guaranteeing seamless development and maintenance of web applications. They stay updated with the latest trends, exploring advanced Python frameworks like Flask to enhance their skills and deliver top-notch web experiences Now days we explore deep learn about web framework of Python like **Flask** & **Django** with better experiences. 
 ## Required Skill :- 
 1. Html 
 2. Css, Css3 and css framework Bootstrap
@@ -15,10 +16,13 @@
 - Twitter : [twitter](https://twitter.com/pateldileep51)
 - Linkedin :  [linkedin](https://www.linkedin.com/in/dileep-kumar-patel-333b90125/)
 - Resume :  [Live Resume Builder Project](https://python03django.pythonanywhere.com/)
+- MyPicDocs :  [Live Resume Builder Project](https://mypicdocs.pythonanywhere.com/)
 ## OnlineShoping Projects :-
 Website [Online Shoping :](https://dileepkumarpatelpalamu.github.io/onlineshoping/)
 ## Online Exam Projects :-
 Website [Online Exam Project :](https://pateldileep51.pythonanywhere.com/)
+##  Presonal Web Link :-
+Website [Online Exam Project :](https://www.mypicdocs.com/)
 ### About Us
 -  Hi, I’m **Dileep Kumar Patel**
 - I’m interested in Web Development process like frontend & Backend Designing, Database Designing and other frameworks Bootstrap, J-Query, Html, Css and Mysql server.
