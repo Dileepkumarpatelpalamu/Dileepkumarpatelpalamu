@@ -14,9 +14,9 @@ Currently, I’m deepening my knowledge of modern Python frameworks like **Flask
 ## 🛠️ Skills & Technologies
 
 - **Frontend**: HTML5, CSS3, Bootstrap, JavaScript, React.js,NextJs, jQuery  
-- **Backend**: Django, PHP, Express, Node.js  
+- **Backend**: Django,FastApi, PHP, Express, Node.js  
 - **Databases**: MySQL, MS SQL Server,MongoDB,Redis,PM2  
-- **Frameworks**: Laravel, CodeIgniter, ,FastApi,Django  
+- **Frameworks**: Laravel, ,FastApi,Django  
 - **Others**: Git, GitHub, REST APIs, Basic Photoshop  
 - **Learning**: Advanced Python, Flask, Web Architecture & Scalable Design  
 
