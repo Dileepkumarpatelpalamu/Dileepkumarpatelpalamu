@@ -1,6 +1,5 @@
-how to desing more attractive this my git hub
 # 👨‍💻 Dileep Kumar Patel  
-## PHP | Laravel | MySQL | AJAX | Django | FastAPI | Full Stack Web Developer
+## PHP | Django | FastAPI | MySQL | AJAX | Full Stack Web Developer
 
 ---
 
@@ -87,4 +86,4 @@ A secure digital document management system to upload, store, and manage persona
 ---
 
 > _“I believe strong backend logic matters more than flashy UI.”_  
-> — PHP Developer Mindset
+> — PHP & Python Developer Mindset
