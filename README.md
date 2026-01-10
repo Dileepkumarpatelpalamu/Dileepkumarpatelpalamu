@@ -1,89 +1,108 @@
-# 👨‍💻 Dileep Kumar Patel  
-## PHP | Laravel | MySQL | AJAX | Django | FastAPI | Full Stack Web Developer
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00C896&center=true&vCenter=true&width=600&lines=Hi+There!+👋;I'm+Dileep+Kumar+Patel;Full+Stack+%26+Backend+Developer" alt="Typing SVG" />
+</div>
 
----
+<br/>
 
-🎯 **Results-driven Backend & Full Stack Developer** with strong hands-on experience in **Core PHP, Laravel, MySQL, AJAX**, along with **Python frameworks (Django, FastAPI)**.  
-I specialize in building **real-world, scalable web applications** with clean backend logic, secure data handling, and interview-ready implementations.
+<div align="center">
+  <a href="https://github.com/DileepKumarPatelPalamu">
+    <img src="https://github-profile-trophy.vercel.app/?username=DileepKumarPatelPalamu&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="Trophies" />
+  </a>
+</div>
 
-I work across the full stack using **HTML, CSS, JavaScript, PHP, MySQL, Python**, and **React.js**, ensuring smooth client–server communication using HTTP & REST APIs.  
-I also build and maintain **CMS-style systems**, focusing on performance, maintainability, and clean architecture.
+<br/>
 
-Currently, I’m deepening my expertise in **backend architecture**, **database design**, and modern Python frameworks like **FastAPI, Flask, and Django** to deliver high-performance, scalable applications.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DileepKumarPatelPalamu&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DileepKumarPatelPalamu&theme=radical&hide_border=true" alt="Streak Stats" width="48%" />
+</div>
 
----
+<br/>
 
-## 🛠️ Skills & Technologies
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DileepKumarPatelPalamu&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="60%" />
+</div>
 
-### 🔹 Frontend
-- HTML5, CSS3, Bootstrap 5
-- JavaScript, jQuery
-- React.js, Next.js
-- AJAX (Form submit, pagination, modal-based CRUD)
+<br/>
 
-### 🔹 Backend
-- **PHP (Core PHP, OOP, MySQLi, PDO)**
-- **Laravel (MVC, CRUD, Validation, REST APIs)**
-- Django, FastAPI
-- Node.js, Express (basic)
+## 👨‍💻 About Me
 
-### 🔹 Databases
-- **MySQL** (Joins, Normalization, Multi-table design)
-- MS SQL Server
-- MongoDB
-- Redis (basic)
-- PM2 (basic)
+Results-driven **Full Stack & Backend Developer** with strong experience in building scalable, production-ready web applications.
 
-### 🔹 Tools & Others
-- Git, GitHub
-- REST API integration
-- Secure file upload handling
-- Basic Photoshop
-- Debugging & performance optimization
+I love writing **clean, maintainable backend logic**, secure APIs, and database designs that scale.  
+Currently leveling up in **modern Python backends**, system design & high-performance architecture.
 
-### 🔹 Currently Learning
-- Advanced Python
-- Backend architecture & scalable system design
+> “Strong backend > Flashy frontend” — My development philosophy 🚀
 
----
+<br/>
 
-## 🌐 Connect With Me
+## 🛠️ Tech Stack
 
-- 🔗 **GitHub**: https://github.com/DileepKumarPatelPalamu  
-- 💼 **LinkedIn**: https://www.linkedin.com/in/dileep-kumar-patel-333b90125/  
-- 🐦 **Twitter**: https://twitter.com/pateldileep51  
-- 📘 **Facebook**: https://www.facebook.com/Dileepkumarpatel.94214  
-- 📝 **Live Resume Builder**: https://python03django.pythonanywhere.com/  
-- 🗂️ **MyPicDocs**: https://www.mypicdocs.com  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,tailwind,php,laravel,python,django,fastapi,nodejs,express,mysql,mongodb,redis,git,github,postman,vscode&perline=7" />
+  </a>
+</p>
 
----
+### Quick Skills Overview
+- **Frontend** — HTML5 • CSS3 • JavaScript • React.js • Next.js • Bootstrap • AJAX & modern UX patterns
+- **Backend** — PHP (OOP) • **Laravel** (APIs, Queues, Auth) • **Django** • **FastAPI** • RESTful APIs
+- **Databases** — MySQL (expert – Joins, Optimization) • MongoDB • Redis (caching)
+- **Tools** — Git • Postman • Linux basics • Performance tuning • Secure file handling
 
-## 🚀 Featured Projects
+<br/>
 
-### 🛒 Online Shopping Website  
-🔗 https://dileepkumarpatelpalamu.github.io/onlineshoping/  
-A responsive e-commerce platform with frontend & backend integration, product listing, and clean UI flow.
+## 🌟 Featured Projects
 
-### 📝 Online Exam System (Django)  
-🔗 https://pateldileep51.pythonanywhere.com/  
-A Django-based web application for managing online exams, user accounts, and result evaluation.
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://dileepkumarpatelpalamu.github.io/onlineshoping/">
+        <img src="https://img.shields.io/badge/Online_Shopping-E74C3C?style=for-the-badge&logoColor=white" alt="Online Shopping" /><br/>
+        <b>Responsive E-commerce Platform</b><br/>
+        Full frontend + backend integration
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://pateldileep51.pythonanywhere.com/">
+        <img src="https://img.shields.io/badge/Online_Exam_System-2ECC71?style=for-the-badge&logoColor=white" alt="Exam System" /><br/>
+        <b>Django Exam Portal</b><br/>
+        User mgmt + result evaluation
+      </a>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.mypicdocs.com">
+        <img src="https://img.shields.io/badge/MyPicDocs-3498DB?style=for-the-badge&logoColor=white" alt="MyPicDocs" /><br/>
+        <b>Secure Document Manager</b><br/>
+        Personal cloud storage solution
+      </a>
+    </td>
+  </tr>
+</table>
 
-### 🧾 MyPicDocs – Personal Document Manager  
-🔗 https://www.mypicdocs.com  
-A secure digital document management system to upload, store, and manage personal documents.
+<br/>
 
----
+## 📫 Let's Connect!
 
-## 👋 About Me
+<div align="center">
+  <a href="https://www.linkedin.com/in/dileep-kumar-patel-333b90125/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://twitter.com/pateldileep51">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/DileepKumarPatelPalamu">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
 
-- 🧑 **Dileep Kumar Patel**
-- 🎓 MCA Graduate (2018), Jaipur National University
-- 💻 Strong interest in **backend development, databases, and system design**
-- 🛠️ Practical experience with **PHP/Laravel interview-style projects**
-- 🤝 Open to collaboration on **PHP, Laravel, Django, and backend-heavy projects**
-- 🚀 GitHub is my primary platform to learn, build, and share real-world solutions
+<div align="center">
+  <br/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=DileepKumarPatelPalamu.DileepKumarPatelPalamu&color=0e75b6&style=flat&label=Profile+Views" alt="Profile Views"/>
+</div>
 
----
+<br/>
 
-> _“I believe strong backend logic matters more than flashy UI.”_  
-> — PHP Developer Mindset
+<div align="center">
+  <i>Always learning • Always building • Open to interesting backend & full-stack collaborations!</i>
+</div>
