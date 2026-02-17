@@ -3,13 +3,13 @@
 
 ---
 
-🎯 **Results-driven Backend & Full Stack Developer** with strong hands-on experience in **Core PHP, Laravel, MySQL, AJAX**, along with **Python frameworks (Django, FastAPI)**.  
+🎯 **Results-driven Backend & Full Stack Developer** with strong hands-on experience in **Core PHP, MySQL, AJAX**, along with **Python frameworks (Django, FastAPI)**.  
 I specialize in building **real-world, scalable web applications** with clean backend logic, secure data handling, and interview-ready implementations.
 
-I work across the full stack using **HTML, CSS, JavaScript, PHP, MySQL, Python**, and **React.js**, ensuring smooth client–server communication using HTTP & REST APIs.  
+I work across the full stack using **HTML, CSS, JavaScript, PHP, MySQL, Python** ensuring smooth client–server communication using HTTP & REST APIs.  
 I also build and maintain **CMS-style systems**, focusing on performance, maintainability, and clean architecture.
 
-Currently, I’m deepening my expertise in **backend architecture**, **database design**, and modern Python frameworks like **FastAPI, Flask, and Django** to deliver high-performance, scalable applications.
+Currently, I’m deepening my expertise in **backend architecture**, **database design**, and modern Python frameworks like **Flask, and Django** to deliver high-performance, scalable applications.
 
 ---
 
